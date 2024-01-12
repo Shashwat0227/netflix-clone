@@ -3,3 +3,4 @@
 ![Screenshot 2023-08-23 221631](https://github.com/Shashwat0227/netflix-clone/assets/98209486/152be538-27fb-4ee2-a855-98593934fdec)
 # netflix-clone
 Here i used html and css to create the design of the page , now will add on things using backend and more of javascript to make it responsive !
+live site on - https://shashwat0227.github.io/netflix-clone/
